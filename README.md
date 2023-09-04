@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# Material-UI Demo: Creating Forms with Material-UI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Material-UI Demo repository! This repository is a practical demonstration of creating forms with Material-UI in React, as explained in the article ["How to Create a Form with Material-UI"](https://www.letsreact.org/how-to-create-form-with-material-ui/) on [Let's React](https://www.letsreact.org).
 
-## Available Scripts
 
-In the project directory, you can run:
+## Getting Started
 
-### `npm start`
+To run this demo on your local machine, follow these steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. **Clone the Repository**: Start by cloning this repository to your local machine using the following command:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+   ```bash
+   git clone https://github.com/csharpinc/material-ui-demo.git
+   ```
 
-### `npm test`
+2. **Navigate to the Directory**: Move into the project directory:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   ```bash
+   cd material-ui-demo
+   ```
 
-### `npm run build`
+3. **Install Dependencies**: Install the required dependencies using npm or yarn:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   ```bash
+   npm install
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+   or
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```bash
+   yarn install
+   ```
 
-### `npm run eject`
+4. **Run the Application**: Once the dependencies are installed, start the development server:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   ```bash
+   npm start
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   or
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+   ```bash
+   yarn start
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+5. **Open in Browser**: Open your web browser and navigate to `http://localhost:3000` to explore the Material-UI Form demo.
 
-## Learn More
+## About the Article
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The demo in this repository corresponds to the tutorial article ["How to Create a Form with Material-UI"](https://www.letsreact.org/how-to-create-form-with-material-ui/) on Let's React. The article provides a step-by-step guide on creating forms with Material-UI in a React application. It covers form components, form validation, styling, and handling form submissions. Following this tutorial will equip you with the skills to build beautiful and functional forms with Material-UI.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributing
 
-### Code Splitting
+If you encounter any issues with the demo or wish to contribute enhancements, please feel free to open an issue or submit a pull request in this repository. Your contributions are highly appreciated!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Credits
 
-### Analyzing the Bundle Size
+- Original Article: ["How to Create a Form with Material-UI"](https://www.letsreact.org/how-to-create-form-with-material-ui/) on Let's React
+- Author: [shivangi]( https://www.letsreact.org/author/shivangi-rajde/)
+- Demo Implementation: [Material UI Demo](https://github.com/csharpinc/material-ui-demo.git)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+Happy coding!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Let's React](https://www.letsreact.org)
